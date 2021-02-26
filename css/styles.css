@@ -11,7 +11,9 @@ img{
 }
 .aboutus{
     background-image: url(/backgrounds/c_image.jpg);
+    color:white;
 }
 .services {
     background-image: url(/backgrounds/s_image.jpg);
+    color: white;
 }
