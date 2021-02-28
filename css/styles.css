@@ -9,6 +9,7 @@
 }
 #heading{
   background-image: url('../backgrounds/h_img.jpg');
+  color: #fff;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -90,6 +91,7 @@ h3{
   .hide {
     display: none;
 }
+
   .fa {
     padding: 30px;
     font-size: 30px;
