@@ -87,7 +87,9 @@ h3{
     padding: 20px;
     font-family: Arial;
   }
-  
+  .hide {
+    display: none;
+}
   .fa {
     padding: 30px;
     font-size: 30px;
