@@ -184,12 +184,6 @@ h3{
 .container{
   text-align: center;
 }
-.desHidden{
-  display: none;
-}
-.devHidden{
-  display: none;
-}
-.prodHidden{
+.hide {
   display: none;
 }
