@@ -180,15 +180,16 @@ h3{
     width: 70%;
     height: auto;
   }
-  .hide{
-    display:show;
-  }
-  .clickable {
-    cursor: pointer;
-  }
-
-  .clickable:hover {
-    text-decoration: none;
-  }
-
-
+ 
+.container{
+  text-align: center;
+}
+.desHidden{
+  display: none;
+}
+.devHidden{
+  display: none;
+}
+.prodHidden{
+  display: none;
+}
