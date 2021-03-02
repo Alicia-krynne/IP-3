@@ -88,11 +88,22 @@ h3{
     padding: 20px;
     font-family: Arial;
   }
-  .hide {
-    display: none;
+  
+.ptag {
+  padding: 5% 0;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.301);
+  padding: 50px 10px;
+  font-weight: 100%;
+  padding-top: 30px;
+  border: 4px solid whitesmoke;
+  font-size: 1.1em;
+  line-height: 90%;
+  margin: 20% 5%;
+  overflow: hidden;
+  letter-spacing: 2px;
+  font-family: 'Merienda', cursive;
 }
-
-
 .card {
   margin: 10px 0;
   position: relative;
@@ -101,6 +112,7 @@ h3{
 .card:hover img {
   transform: scale(1.2);
   transition: all 0.3s ease;
+}
   .fa {
     padding: 30px;
     font-size: 30px;
@@ -162,3 +174,21 @@ h3{
     background: #f40083;
     color: white;
   }
+ 
+  .image {
+    display: block;
+    width: 70%;
+    height: auto;
+  }
+  .hide{
+    display:show;
+  }
+  .clickable {
+    cursor: pointer;
+  }
+
+  .clickable:hover {
+    text-decoration: none;
+  }
+
+
