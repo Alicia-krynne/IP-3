@@ -114,13 +114,13 @@ h3{
   transition: all 0.3s ease;
 }
   .fa {
-    padding: 30px;
-    font-size: 30px;
-    width: 50px;
+    padding: 20px;
+    font-size: 20px;
+    width: 2px;
     text-align: center;
     text-decoration: none;
-    margin: 5px 2px;
-    border-radius: 50%;
+    margin: 4px 2px;
+    border-radius: 80%;
   }
   
   .fa:hover {
