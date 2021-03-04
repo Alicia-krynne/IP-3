@@ -2,6 +2,7 @@
 DEVELOPER PORTFORLIO
 ## Description
 This is a website  that shows  what Delani Studio does  and their previous projects . clients / users are able to send and recieve emails.
+![SCREENSHOT]("./img/ Delani Studio.jpg")
 
 ## Setup instructions
 No set  up  required simply  click on links provided either through social  media or  email.
